@@ -14,6 +14,9 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    display_utc: true
+    date_format: YYYY/MM/DD
 - type: boolean
   name: hideTitle
   label: hideTitle
@@ -32,6 +35,3 @@ fields:
     - gallery
     - blackandgrey
     - colour
-pages:
-- content/gallery/Forestry/forestry.md
-- content/gallery/Forestry/forestryfdf.md
