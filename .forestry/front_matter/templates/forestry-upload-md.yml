@@ -23,6 +23,15 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - archive
+    - gallery
+    - blackandgrey
+    - colour
 pages:
 - content/gallery/Forestry/forestry.md
 - content/gallery/Forestry/forestryfdf.md
