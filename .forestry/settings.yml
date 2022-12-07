@@ -6,16 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: content/gallery/Forestry
-  label: Post -HERE-
+  label: Posts
   create: documents
   match: "**/*"
   templates:
   - forestry-upload-md
-- type: directory
-  path: content/gallery
-  label: Gallery
-  create: all
-  match: "**/*"
 upload_dir: assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
