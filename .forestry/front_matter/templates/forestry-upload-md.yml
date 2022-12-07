@@ -1,0 +1,25 @@
+---
+label: forestry-upload.md
+hide_body: true
+fields:
+- type: number
+  name: weight
+  label: weight
+- type: image_gallery
+  name: images
+  label: images
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: hideTitle
+  label: hideTitle
+- type: boolean
+  name: hideExif
+  label: hideExif
+- type: list
+  name: tags
+  label: tags
