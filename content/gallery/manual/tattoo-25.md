@@ -1,14 +1,15 @@
 ---
-weight: -4
+weight: "-4"
 images:
-- /images/folder/2022-01-23_07-18-27_UTC_1.jpg
-- /images/folder/2022-01-23_07-18-27_UTC_2.jpg
-title:
+- "/images/folder/2022-01-23_07-18-27_UTC_1.jpg"
+- "/images/folder/2022-01-23_07-18-27_UTC_2.jpg"
+title: 
 date: 
-hideTitle: true
+hideTitle: false
 hideExif: true
 tags:
-- archive # all posts
+- archive
 - tattoo
 - gallery
+
 ---
