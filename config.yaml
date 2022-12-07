@@ -1,0 +1,67 @@
+baseURL: https://aesthetinks.github.io # todo: change site url.
+title: Aesthetink # todo: change site name.
+defaultContentLanguage: 'en'
+theme: eternity
+googleAnalytics: '' # todo: set your analytics id.
+
+params:
+  image: /images/banner.png
+  subtitle: Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. # todo: change default subtitle for your website.
+  copyright: All rights reserved. # todo: set your copyright type.
+  author: Iorek Carpio # todo: set your full name.
+  dontShowSource: false # please, do not do this :)
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/aesthetinks/aesthetinks.github.io
+  portfolio:
+    columns:
+      desktop:
+        default: 3
+      mobile:
+        default: 2
+  socials:
+    # todo: add your social accounts. 
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:eternity@bora.sh'
+      landing: true
+    - icon: "fa fa-facebook-square fa-lg"
+      url:  'https://www.facebook.com/drzgochuckyourself'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://www.instagram.com/iorekcarpio/'
+      landing: true
+  homepage: "/gallery" # todo: uncomment homepage, homepage link is mostly same with menu.main[0]
+  specialPages:
+    - gallery
+    - archive
+  bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
+  plausible: '' # todo: set your plausible id.
+  disableRadius: false
+  moveIt: false # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  gallery: ":filename/"
+
+menu:
+  main:
+    - name: gallery
+      url: /gallery/
+      weight: 1
+    - name: aftercare
+      url: /aftercare/
+      weight: 4
+    - name: contact
+      url: /contact/
+      weight: 5
+    - name: about
+      url: /about/
+      weight: 6
