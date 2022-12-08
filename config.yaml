@@ -21,9 +21,9 @@ params:
   socials:
     # todo: add your social accounts. 
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:drzgochuckyourself@gmail.com'
       landing: true
-    - icon: "fa fa-facebook-square fa-lg"
+    - icon: "fa fa-facebook fa-lg"
       url:  'https://www.facebook.com/drzgochuckyourself'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
