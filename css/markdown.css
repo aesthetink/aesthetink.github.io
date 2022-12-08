@@ -1,5 +1,5 @@
 .content strong {
-    color: var(--main);
+    color: var(--blue);
 }
 
 .content .highlight code,
@@ -13,7 +13,7 @@
 
 .content p code,
 .content strong code {
-    color: var(--main);
+    color: var(--blue);
     background-color: transparent;
     font-size: 1.1em;
     font-weight: 600;
@@ -28,16 +28,16 @@
 .content blockquote {
     margin-left: 1rem;
     border-left: 3px solid;
-    border-color: var(--main);
+    border-color: var(--blue);
     padding-left: 20px;
 }
 
 .content blockquote p {
-    color: var(--white);
+    color: var(--grey);
 }
 
 .content pre code {
-    color: var(--white);
+    color: var(--grey);
 }
 
 .content pre,
