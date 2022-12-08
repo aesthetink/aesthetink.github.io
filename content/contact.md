@@ -21,7 +21,7 @@ Email:
 [drzgochuckyourself@gmail.com](mailto:drzgochuckyourself@gmail.com)
 
 Facebook:
-[facebook.com/drzgochuckyourself]: https://www.facebook.com/drzgochuckyourself "fb"
+[facebook.com/drzgochuckyourself](https://www.facebook.com/drzgochuckyourself)
 
 Intagram:
-[@iorekcarpio]: https://www.instagram.com/iorekcarpio/ "ig"
+[@iorekcarpio](https://www.instagram.com/iorekcarpio/)
