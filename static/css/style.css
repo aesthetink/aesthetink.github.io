@@ -19,13 +19,8 @@
 }
 
 .welcome-title {
-    font-family: 'Open Sans Bold';
-    text-align: center;
-    font-size: 3em;
-}
-
-.oldEnd {
-    font-family: 'OldeEnglish';
+    margin-top: 20px;
+    height: 100px;
 }
 
 .welcome-subtitle {
@@ -89,7 +84,7 @@
 }
 
 nav.navbar {
-    background-color: var(--dark);
+    background-color: var(--white);
     justify-content: people-between;
     align-items: center;
     height: unset !important;
@@ -323,16 +318,22 @@ section .column img {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: small;
-    color: rgb(211, 211, 211);
+    color: rgb(37, 37, 37);
 }
 
 .footer {
-    background-color: var(--dark);
-    color: rgb(245, 245, 245);
+    background-color: var(--white);
+    color: var(--dark);
 }
 
 .source-love {
     color: var(--main-light);
+}
+
+.source-love:hover,
+.source-love.active {
+    color: var(--main);
+    border-bottom: 5px solid var(--blue);
 }
 
 #mobile {

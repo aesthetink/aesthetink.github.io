@@ -1,6 +1,6 @@
 ---
 images:
-- /images/profile-fb.jpg
+- /images/profile.jpg
 title: about
 url: about
 hideTitle: true

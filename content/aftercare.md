@@ -9,10 +9,6 @@ hideDate: true
 ---
 
 ### Aftercare - the most <strong>important </strong> part of your new tattoo
-If you have had a second skin patch applied here is a useful information link: [**Saniderm Application Aftercare**](https://speakeasycustomtattoo.com/saniderm-application-aftercare)
-
-After removing the patch, or if you have had cling film applied, follow the procedures below.
-
 Keep your tattoo bandaged with cling film for around 1 hour. After this time you can remove it and wash your tattoo gently with warm, soapy water. 
 
 Rinse thoroughly with cold water to close the pores and lightly pat dry with clean paper towel. With clean hands, apply a THIN layer of aftercare cream roughly every 2 - 3 hours. You can do this as many times throughout the day as you need to depending on the dryness of your skin.
