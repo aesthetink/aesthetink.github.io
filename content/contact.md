@@ -15,14 +15,14 @@ When asking for quotes, please state <strong>SIZE and LOCATION</strong> of your 
 
 
 
-#### Mobile:
-- 09
+###### Mobile:
+    09
 
-#### Email:
-- [drzgochuckyourself@gmail.com](mailto:drzgochuckyourself@gmail.com)
+###### Email:
+    [drzgochuckyourself@gmail.com](mailto:drzgochuckyourself@gmail.com)
 
-#### Facebook:
-- [facebook.com/drzgochuckyourself](https://www.facebook.com/drzgochuckyourself)
+###### Facebook:
+    [facebook.com/drzgochuckyourself](https://www.facebook.com/drzgochuckyourself)
 
-#### Intagram:
--[@iorekcarpio](https://www.instagram.com/iorekcarpio/)
+###### Intagram:
+    [@iorekcarpio](https://www.instagram.com/iorekcarpio/)
