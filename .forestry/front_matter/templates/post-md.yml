@@ -5,6 +5,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: MM/DD/YYYY
 - type: number
   name: weight
   label: weight
@@ -23,3 +25,4 @@ fields:
 - type: list
   name: tags
   label: tags
+  description: gallery
