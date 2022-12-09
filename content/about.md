@@ -1,6 +1,6 @@
 ---
 images:
-- /images/318906882_3551587195089574_5986169185008959537_n.jpg
+- /images/aes.jpg
 title: about
 url: about
 hideTitle: true
