@@ -25,7 +25,7 @@ fields:
 - type: list
   name: tags
   label: tags
-  description: gallery
+  description: Add "gallery" and "archive"
 pages:
 - content/gallery/Forestry/dsdsdglobal-web-icon.md
 - content/gallery/Forestry/sdasdsd.md
