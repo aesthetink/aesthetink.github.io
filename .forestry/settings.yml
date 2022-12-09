@@ -9,7 +9,7 @@ sections:
   label: Post
   create: documents
   match: "**/*"
-  new_doc_ext: md
+  new_doc_ext: h.md
   templates:
   - post-md
 - type: directory
