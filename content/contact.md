@@ -13,7 +13,7 @@ Use this section for inquiries, to book a consultation and to ask about availabi
 When asking for quotes, please state <strong>SIZE and LOCATION</strong> of your new tattoo.
 
 <H6>Mobile:</H6>
-s09
+09266575942
 
 ###### Email:
 [drzgochuckyourself@gmail.com](mailto:drzgochuckyourself@gmail.com)
