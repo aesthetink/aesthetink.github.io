@@ -1,4 +1,4 @@
-baseURL: https://aesthetinks.github.io # todo: change site url.
+baseURL: https://aesthetink.github.io # todo: change site url.
 title: Aesthetink # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
@@ -11,7 +11,7 @@ params:
   author: Iorek Carpio # todo: set your full name.
   dontShowSource: false # please, do not do this :)
   # GitHub repo URL of your site
-  gitRepo: https://github.com/aesthetinks/aesthetinks.github.io
+  gitRepo: https://github.com/aesthetink/aesthetink.github.io
   portfolio:
     columns:
       desktop:
