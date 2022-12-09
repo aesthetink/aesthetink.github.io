@@ -1,6 +1,6 @@
 ---
 images:
-- /images/profile.jpg
+- /images/318906882_3551587195089574_5986169185008959537_n.jpg
 title: about
 url: about
 hideTitle: true

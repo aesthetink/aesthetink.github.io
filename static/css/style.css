@@ -84,7 +84,7 @@
 }
 
 nav.navbar {
-    background-color: var(--white);
+    background-color: var(--dark);
     justify-content: people-between;
     align-items: center;
     height: unset !important;
@@ -319,12 +319,12 @@ section .column img {
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: small;
-    color: rgb(37, 37, 37);
+    color: rgb(211, 211, 211);
 }
 
 .footer {
-    background-color: var(--white);
-    color: var(--dark);
+    background-color: var(--dark);
+    color: rgb(245, 245, 245)
 }
 
 .source-love {
