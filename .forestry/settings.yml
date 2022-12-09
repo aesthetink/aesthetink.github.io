@@ -17,16 +17,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/tags
-  label: Tags
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/gallery
-  label: Gallery
-  create: all
-  match: "**/*"
 upload_dir: assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
