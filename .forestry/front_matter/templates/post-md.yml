@@ -27,6 +27,7 @@ fields:
   label: tags
   description: Add "gallery" and "archive"
 pages:
+- content/gallery/Forestry/almost-2-00-deym.h.md
 - content/gallery/Forestry/dragon-ball.h.md
 - content/gallery/Forestry/freehand-quicky.h.md
 - content/gallery/Forestry/freehand.h-1.md
