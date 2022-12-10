@@ -27,6 +27,7 @@ fields:
   label: tags
   description: 'Must add "gallery" and "archive"; type "blackandgrey" and "colourtattoo" '
 pages:
+- content/gallery/Forestry/02-16-2020.h.md
 - content/gallery/Forestry/04-28-2020.h.md
 - content/gallery/Forestry/05-17-2020.h.md
 - content/gallery/Forestry/07-07-2020.h.md
