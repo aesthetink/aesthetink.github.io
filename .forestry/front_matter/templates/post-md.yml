@@ -27,6 +27,7 @@ fields:
   label: tags
   description: Add "gallery" and "archive"
 pages:
+- content/gallery/Forestry/dragon-ball.h.md
 - content/gallery/Forestry/freehand.h.md
 - content/gallery/Forestry/oink-oink.h.md
 - content/gallery/Forestry/small-piece-seaman.h.md
