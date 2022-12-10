@@ -25,7 +25,7 @@ fields:
 - type: list
   name: tags
   label: tags
-  description: Add "gallery" and "archive"
+  description: 'Must add "gallery" and "archive"; type "blackandgrey" and "colourtattoo" '
 pages:
 - content/gallery/Forestry/almost-2-00-deym.h.md
 - content/gallery/Forestry/dragon-ball.h.md
