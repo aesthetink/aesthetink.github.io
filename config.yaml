@@ -15,9 +15,14 @@ params:
   portfolio:
     columns:
       desktop:
+        work: 4
+        archive: 6
+        colourtattoo: 2
         default: 3
       mobile:
         default: 2
+        archive: 3
+        colourtattoo: 1
   socials:
     # todo: add your social accounts. 
     - icon: 'far fa-envelope fa-lg'
