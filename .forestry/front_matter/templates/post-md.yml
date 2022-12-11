@@ -5,11 +5,9 @@ fields:
 - type: text
   name: title
   label: title
-- name: slug
-  type: text
-  config:
-    required: false
-  label: slug
+- type: image_gallery
+  name: images
+  label: images
 - type: datetime
   name: date
   label: date
@@ -21,9 +19,6 @@ fields:
 - type: boolean
   name: hideExif
   label: hideExif
-- type: image_gallery
-  name: images
-  label: images
 - type: number
   name: weight
   label: weight
