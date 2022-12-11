@@ -15,7 +15,7 @@ params:
   portfolio:
     columns:
       desktop:
-        work: 4
+        gallery: 4
         archive: 6
         colourtattoo: 2
         default: 3
