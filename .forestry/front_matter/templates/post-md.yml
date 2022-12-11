@@ -2,26 +2,31 @@
 label: post.md
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: title
+- name: slug
+  type: text
+  config:
+    required: false
+  label: slug
 - type: datetime
   name: date
   label: date
   config:
     date_format: MM/DD/YYYY
-- type: number
-  name: weight
-  label: weight
-- type: text
-  name: title
-  label: title
-- type: image_gallery
-  name: images
-  label: images
 - type: boolean
   name: hideTitle
   label: hideTitle
 - type: boolean
   name: hideExif
   label: hideExif
+- type: image_gallery
+  name: images
+  label: images
+- type: number
+  name: weight
+  label: weight
 - type: list
   name: tags
   label: tags
