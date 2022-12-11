@@ -56,6 +56,12 @@ menu:
     - name: gallery
       url: /gallery/
       weight: 1
+    - name: black
+      url: /tags/blackandgrey/
+      weight: 2
+    - name: colour
+      url: /tags/colourtattoo/
+      weight: 3
     - name: aftercare
       url: /aftercare/
       weight: 4
